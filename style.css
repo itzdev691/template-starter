@@ -2,3 +2,10 @@ body {
     background-color: black;
     text-align: center;
 }
+h1 {
+    color: transparent;
+    -webkit-text-stroke: 1px white;
+}
+p {
+    color: white;
+}
